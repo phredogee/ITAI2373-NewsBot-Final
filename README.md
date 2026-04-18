@@ -20,6 +20,9 @@ BBC News dataset
 ## Project Structure
 [brief folder explanation]
 
+## spaCy
+python -m spacy download en_core_web_sm
+
 ## Installation
 pip install -r requirements.txt
 
