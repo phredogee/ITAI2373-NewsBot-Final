@@ -1,4 +1,9 @@
-# src/utils.py
+"""
+Utility functions for NewsBot Intelligence System 2.0
+
+This module contains reusable preprocessing and analysis functions
+used across the NLP pipeline.
+"""
 
 import re
 import string
