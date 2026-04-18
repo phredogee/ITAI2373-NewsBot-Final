@@ -1,14 +1,19 @@
 # NewsBot Intelligence System 2.0
 
-## 📌 Overview
+## Overview
 
-The NewsBot Intelligence System 2.0 is an advanced Natural Language Processing (NLP) platform designed to transform raw news articles into structured, actionable insights.
+The NewsBot Intelligence System 2.0 is an end-to-end Natural Language Processing (NLP) system that transforms raw news articles into structured insights.
 
-This project demonstrates a complete NLP pipeline including text preprocessing, feature extraction, classification, sentiment analysis, named entity recognition (NER), topic modeling, and language model integration.
+This project demonstrates how modern NLP techniques can be integrated into a single pipeline capable of:
 
-The system is built to simulate a real-world news intelligence tool capable of supporting media monitoring, trend analysis, and automated content understanding.
+understanding text
+extracting meaning
+identifying trends
+generating summaries
 
-🎯 Objectives
+It is designed to simulate a real-world news intelligence platform used in media analytics and business decision-making.
+
+## Objectives
 Build an end-to-end NLP pipeline for news analysis
 Apply machine learning models for classification and sentiment detection
 Extract meaningful entities and relationships from text
@@ -74,7 +79,15 @@ Language Model Layer – Summarization and advanced NLP
 Interaction Layer – Query-based exploration (prototype)
 
 ## Results
-[2–4 bullets]
+📌 High classification accuracy using TF-IDF + linear models
+📌 Topic modeling successfully identified category themes
+📌 Transformer NER improved flexibility over rule-based methods
+📌 Summarization reduced article length while preserving meaning
 
 ## Author / Team
 Alfredo Garza
+ITAI 2373 – Natural Language Processing
+Houston City College
+
+## Notes
+This project was developed as part of a final course assignment and demonstrates applied NLP techniques aligned with industry practices and system design expectations.
