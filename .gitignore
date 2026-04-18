@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Transformers cache
+.cache/
+.huggingface/
+
+# Matplotlib cache
+.matplotlib/
+
+# Torch cache
+torch_cache/
