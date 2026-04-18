@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+transformers<5
+torch
+sentencepiece
+accelerate
+jupyter
+notebook
