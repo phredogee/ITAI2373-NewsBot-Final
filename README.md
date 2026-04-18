@@ -56,36 +56,35 @@ Source: BBC News Dataset
 Categories: Business, Entertainment, Politics, Sport, Tech
 Type: Text-based news articles
 
-## Project Structure
+## 📁 Project Structure
+
+```text
 ITAI2373-NewsBot-Final/
-├── README.md                      # Project overview and instructions
-├── requirements.txt              # Python dependencies
-├── .gitignore                    # Files and folders to ignore in version control
+├── README.md
+├── requirements.txt
+├── .gitignore
 │
 ├── data/
 │   └── raw/
-│       └── bbc-text.csv          # Original dataset used for analysis
+│       └── bbc-text.csv
 │
 ├── notebooks/
 │   └── NewsBot_Intelligence_System_Final.ipynb
-│                                  # Main notebook containing full NLP pipeline
 │
 ├── reports/
 │   ├── FP_TechnicalDoc_YourName_GroupName_ITAI2373.pdf
 │   ├── FP_ExecutiveSummary_YourName_GroupName_ITAI2373.pdf
 │   └── FP_ReflectiveJournal_GroupName_ITAI2373.pdf
-│                                  # Final project deliverables
 │
 ├── slides/
 │   └── FP_Presentation_YourName_GroupName_ITAI2373.pptx
-│                                  # Presentation slides
 │
 ├── src/
-│   └── utils.py                  # Optional helper functions (future expansion)
+│   └── utils.py
 │
 └── images/
     └── screenshots/
-        └── (optional visuals)    # Graphs and output screenshots for README
+````
 
 ## spaCy
 python -m spacy download en_core_web_sm
