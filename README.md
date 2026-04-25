@@ -91,17 +91,11 @@ Multiple models were evaluated, including Naive Bayes, Logistic Regression, and 
 ITAI2373-NewsBot-Final/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
+├── LICENSE
 │
 ├── data/
-│   └── raw/
-│       └── bbc-text.csv
-│
 ├── notebooks/
-│   └── FP_Presentation_AlfredoGarza_PhredoLexus_ITAI2373.ipynb
-│
-├── presentation/
-│   └── FP_Presentation_AlfredoGarza_PhredoLexus_ITAI2373.pptx
-│
 ├── src/
-│   └── utils.py
+│
+├── FP_Presentation_AlfredoGarza_PhredoLexus_ITAI2373.ipynb
+└── FP_Presentation_AlfredoGarza_PhredoLexus_ITAI2373.pptx
