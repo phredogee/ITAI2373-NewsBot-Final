@@ -79,6 +79,12 @@ Multiple models were evaluated, including Naive Bayes, Logistic Regression, and 
 
 ---
 
+## Installation
+
+- pip install -r requirements.txt
+- python -m spacy download en_core_web_sm
+
+---
 ## 📁 Project Structure
 
 ```text
