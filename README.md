@@ -1,8 +1,8 @@
 # NewsBot Intelligence System 2.0
 
-## Overview
-
 The NewsBot Intelligence System 2.0 is an end-to-end Natural Language Processing (NLP) system that transforms raw news articles into structured insights.
+
+## Overview
 
 This project demonstrates how modern NLP techniques can be integrated into a single pipeline capable of:
 
