@@ -94,7 +94,6 @@ ITAI2373-NewsBot-Final/
 ├── LICENSE
 │
 ├── data/
-├── notebooks/
 ├── src/
 │
 ├── FP_Presentation_AlfredoGarza_PhredoLexus_ITAI2373.ipynb
