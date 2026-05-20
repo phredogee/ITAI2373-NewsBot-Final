@@ -1,4 +1,8 @@
-# NewsBot Intelligence System 2.0
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+# NewsBot-AI (formerly NewsBot Intelligence System 2.0)
 
 The NewsBot Intelligence System 2.0 is an end-to-end Natural Language Processing (NLP) system that transforms raw news articles into structured insights.
 
